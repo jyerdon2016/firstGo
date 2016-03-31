@@ -1,0 +1,81 @@
+Type: Wireless network
+Discovery date: 2:05 AM 3/31/2016
+Network: 92-5g (192.168.2.0/24)
+BSSID: 2C:30:33:40:AC:8B
+Speed: 351 Mbps
+Address: 192.168.2.16 C0:BD:D1:45:A1:A0
+Gateway: 192.168.2.1
+DNS: 192.168.2.1
+Access: Internet
+ISP: Blue Ridge Mountain Electric Membership Corporatio (North Carolina, United States)
+Internet address: 66.119.108.19 (66.119.108.19)
+Node identification: MAC address
+Found nodes: 9/9
+
+IP Address: 192.168.2.1
+State: UP
+MAC: 2C:30:33:40:AC:8D
+Hostname: AlliedTelesis.Home
+Vendor: Netgear
+First seen: 2:05 AM 3/31/2016
+
+IP Address: 192.168.2.2
+State: UP
+MAC: 70:81:EB:82:B1:78
+Vendor: Apple
+First seen: 2:05 AM 3/31/2016
+
+IP Address: 192.168.2.3
+State: UP
+MAC: 78:2B:CB:8A:92:AA
+Vendor: Dell
+NetBIOS name: WORKGROUP\TERESA-PC
+NetBIOS role: [FILE SERVER]
+Bonjour name: Teresa-PC
+Bonjour services: rp-media(tcp)
+First seen: 2:05 AM 3/31/2016
+
+IP Address: 192.168.2.4
+State: UP
+MAC: 30:85:A9:B3:3E:69
+Vendor: ASUSTek
+NetBIOS name: WORKGROUP\WORK
+NetBIOS role: [FILE SERVER]
+Bonjour name: Work
+Bonjour services: nvstream(tcp)
+First seen: 2:05 AM 3/31/2016
+
+IP Address: 192.168.2.7
+State: UP
+MAC: A0:63:91:67:D3:15
+Vendor: Netgear
+Other IP addresses:  192.168.2.9 192.168.2.14 192.168.2.15
+First seen: 2:05 AM 3/31/2016
+
+IP Address: 192.168.2.12
+State: UP
+MAC: E8:80:2E:8F:E8:DE
+Vendor: Apple
+First seen: 2:05 AM 3/31/2016
+
+Name: My Phone
+IP Address: 192.168.2.16
+State: UP
+MAC: C0:BD:D1:45:A1:A0
+Vendor: Samsung
+First seen: 2:05 AM 3/31/2016
+
+IP Address: 192.168.2.17
+State: UP
+MAC: 1C:65:9D:16:05:1C
+Vendor: Liteon Technology
+First seen: 2:05 AM 3/31/2016
+
+IP Address: 192.168.2.19
+State: UP
+MAC: 58:82:A8:5B:F4:90
+Vendor: Microsoft
+First seen: 2:05 AM 3/31/2016
+
+
+Sent from Overlook Fing
